@@ -1,9 +1,8 @@
 import React from "react";
 import db from "../../../data/db.json";
-import Home from "@/components/modules/Home";
+import Home from "@/components/modules/HomeCard";
 
 function Homes() {
-  console.log(db.homes);
   return (
     <div className="homes">
       {db.homes.slice(0, 6).map((home) => (

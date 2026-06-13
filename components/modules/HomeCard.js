@@ -20,7 +20,6 @@ function Home({ id, title, img, roomCount, meterage, price }) {
         <p className="card__text">مالدیو</p>
 
         <svg className="card__icon">
-          {/* <use xlink:href="img/sprite.svg#icon-profile-male"></use> */}
           <PersonIcon />
         </svg>
         <p className="card__text">{roomCount} اتاق</p>
