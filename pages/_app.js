@@ -135,7 +135,7 @@ export default function App({ Component, pageProps }) {
 
         <p className="copyright">
           &copy; حقوق مادی معنوی این سایت برای
-          <strong className="copyright__name"> احسان یعقوبی </strong>
+          <strong className="copyright__name"> مهدی ایلخانی نسب </strong>
           محفوظ میباشد
         </p>
       </footer>

@@ -11,7 +11,6 @@ function Features() {
     <div className="featurs">
       <div className="featur">
         <svg className="featur__icon">
-          {/* <use xlink:href="img/sprite.svg#icon-global"></use> */}
           <LanguageIcon />
         </svg>
         <h4 className="u-heading--dark">بهترین خانه های لوکس جهان</h4>
@@ -24,7 +23,6 @@ function Features() {
 
       <div className="featur">
         <svg className="featur__icon">
-          {/* <use xlink:href="img/sprite.svg#icon-map-pin"></use> */}
           <LocationOnIcon />
         </svg>
         <h4 className="u-heading--dark">همه خانه ها در مکان های برتر</h4>
@@ -35,7 +33,6 @@ function Features() {
       </div>
       <div className="featur">
         <svg className="featur__icon">
-          {/* <use xlink:href="img/sprite.svg#icon-key"></use> */}
           <VpnKeyIcon />
         </svg>
         <h4 className="u-heading--dark">خانه جدید در یک هفته</h4>
@@ -48,7 +45,6 @@ function Features() {
       <div className="featur">
         <svg className="featur__icon">
           <BarChartIcon />
-          {/* <use xlink:href="img/sprite.svg#icon-presentation"></use> */}
         </svg>
         <h4 className="u-heading--dark">فقط بهترین خواص</h4>
         <p className="u-paragraph">
@@ -60,7 +56,6 @@ function Features() {
       <div className="featur">
         <svg className="featur__icon">
           <LockIcon />
-          {/* <use xlink:href="img/sprite.svg#icon-lock"></use> */}
         </svg>
         <h4 className="u-heading--dark">پرداخت های ایمن در بعدی</h4>
         <p className="u-paragraph">
@@ -71,7 +66,6 @@ function Features() {
       </div>
       <div className="featur">
         <svg className="featur__icon">
-          {/* <use xlink:href="img/sprite.svg#icon-trophy"></use> */}
           <EmojiEventsIcon />
         </svg>
         <h4 className="u-heading--dark">1% مشاوران املاک برتر</h4>
